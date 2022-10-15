@@ -1,5 +1,5 @@
-### Hi, here is Weihao! 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!--### Hi, here is Weihao! 👋 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wei-hao-Li&show_icons=true&theme=synthwave)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
